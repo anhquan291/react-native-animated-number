@@ -1,0 +1,45 @@
+{
+  "name": "@quanna/react-native-animated-number",
+  "version": "0.1.0",
+  "description": "A React Native component for displaying animated numbers, written in SwiftUI for seamless and super-smooth animations when changing numeric values.",
+  "main": "build/index.js",
+  "types": "build/index.d.ts",
+  "scripts": {
+    "build": "expo-module build",
+    "clean": "expo-module clean",
+    "lint": "expo-module lint",
+    "test": "expo-module test",
+    "prepare": "expo-module prepare",
+    "prepublishOnly": "expo-module prepublishOnly",
+    "expo-module": "expo-module",
+    "open:ios": "xed example/ios",
+    "open:android": "open -a \"Android Studio\" example/android"
+  },
+  "keywords": [
+    "react-native",
+    "expo",
+    "@quanna",
+    "@quanna/react-native-animated-number",
+    "react-native-animated-number",
+    "ReactNativeAnimatedNumber"
+  ],
+  "repository": "https://github.com/anhquan291/react-native-animated-number",
+  "bugs": {
+    "url": "https://github.com/anhquan291/react-native-animated-number/issues"
+  },
+  "author": "Quan Nguyen <anhquan291@gmail.com> (anhquan291)",
+  "license": "MIT",
+  "homepage": "https://github.com/anhquan291/react-native-animated-number#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/react": "~18.3.12",
+    "expo-module-scripts": "^4.0.3",
+    "expo": "~52.0.0",
+    "react-native": "0.76.0"
+  },
+  "peerDependencies": {
+    "expo": "*",
+    "react": "*",
+    "react-native": "*"
+  }
+}

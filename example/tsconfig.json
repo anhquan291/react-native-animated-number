@@ -1,0 +1,10 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": true,
+    "paths": {
+      "react-native-animated-number": ["../src/index"],
+      "react-native-animated-number/*": ["../src/*"]
+    }
+  }
+}

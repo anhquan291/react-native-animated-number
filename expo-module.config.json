@@ -1,0 +1,17 @@
+{
+  "platforms": [
+    "apple",
+    "android",
+    "web"
+  ],
+  "apple": {
+    "modules": [
+      "ReactNativeAnimatedNumberModule"
+    ]
+  },
+  "android": {
+    "modules": [
+      "expo.modules.animatednumber.ReactNativeAnimatedNumberModule"
+    ]
+  }
+}
