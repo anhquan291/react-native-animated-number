@@ -2,6 +2,12 @@
 
 A React Native component for displaying animated numbers, written in SwiftUI for seamless and super-smooth animations when changing numeric values.
 
+
+
+https://github.com/user-attachments/assets/03afb8fe-7144-4fd5-94b8-e92f395b5ad5
+
+
+
 ## Animations
 
 The animations are handled natively using **SwiftUI**, ensuring smooth transitions when changing numbers. Animations are built into the number transitions, requiring no additional setup.
